@@ -1,0 +1,6 @@
+enum ExpenseType {
+  MEDICAL,
+  EDUCATIONAL,
+  ENTERTAINMENT,
+  DEFAULT
+}
